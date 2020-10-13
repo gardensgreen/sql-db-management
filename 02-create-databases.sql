@@ -5,3 +5,6 @@
 -- |-----------------|------------------------|
 -- | aa_times        | aa_times               |
 -- | project_manager | project_management_app |
+
+CREATE DATABASE aa_times WITH OWNER aa_times;
+CREATE DATABASE project_manager WITH OWNER project_management_app;
